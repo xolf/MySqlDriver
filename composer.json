@@ -1,0 +1,8 @@
+{
+    "name": "xolf/MySqlDriver",
+    "description": "A improved mysql driver for PhP",
+    "license": "MIT",
+    "require": {
+        "php": ">=5.0.0",
+    }
+}
