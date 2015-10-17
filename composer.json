@@ -1,5 +1,5 @@
 {
-    "name": "xolf/MySqlDriver",
+    "name": "xolf/mysqldriver",
     "description": "A improved mysql driver for PhP",
     "require": {
         "php": ">=5.0.0"
